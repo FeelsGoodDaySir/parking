@@ -2,11 +2,15 @@
 	"ticket": [
 		{
 			"id": 1,
-			"ticket": 123456
+			"ticket": "Used"
 		},
 		{
 			"id": 2,
-			"ticket": 234567
+			"ticket": "Used"
+		},
+		{
+			"id": 123456,
+			"status": "OK"
 		}
 	],
 	"profile": {
