@@ -2,11 +2,11 @@
 	"ticket": [
 		{
 			"id": 1,
-			"ticket": "Used"
+			"status": "Used"
 		},
 		{
 			"id": 2,
-			"ticket": "Used"
+			"status": "Used"
 		},
 		{
 			"id": 123456,
