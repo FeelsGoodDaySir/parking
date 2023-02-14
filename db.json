@@ -15,5 +15,7 @@
 	],
 	"profile": {
 		"name": "John Doe"
-	}
+	},
+	"priceRate": 1,
+	"durations": [ 10, 30, 60, 2400 ]
 }
